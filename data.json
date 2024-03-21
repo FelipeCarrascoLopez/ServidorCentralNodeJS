@@ -1,0 +1,42 @@
+[
+  {
+    "store_name": "Restaurant 1",
+    "devices": [
+      {
+        "device_name": "Database Server 1 - Restaurant 1",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "error"
+      },
+      {
+        "device_name": "Printer 1 - Restaurant 1",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "warning"
+      },
+      {
+        "device_name": "Web Server 1 - Restaurant 1",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "warning"
+      }
+    ]
+  },
+  {
+    "store_name": "Restaurant 2",
+    "devices": [
+      {
+        "device_name": "Printer 1 - Restaurant 2",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "error"
+      },
+      {
+        "device_name": "Database Server 1 - Restaurant 2",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "warning"
+      },
+      {
+        "device_name": "Web Server 1 - Restaurant 2",
+        "last_updated": "13:44:40 - 21/03/2024",
+        "device_status": "error"
+      }
+    ]
+  }
+]
